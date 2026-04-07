@@ -1,0 +1,4 @@
+日本国内に設置されている地震観測網をGoogle earthに表示します
+Google earthのダウンロードをしないと利用できません
+マップの地方区分は気象庁の全般気象情報などに用いる地域名を参考にしています
+https://www.jma.go.jp/jma/kishou/know/yougo_hp/tiikimei.html
